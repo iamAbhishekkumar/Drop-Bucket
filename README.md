@@ -4,7 +4,7 @@ Simple game build using libGDX.
 
 ## Preview
 
-[![IMAGE ALT TEXT HERE](http://i3.ytimg.com/vi/KPDYgDNMjmU/hqdefault.jpg)](https://www.youtube.com/watch?v=watch?v=KPDYgDNMjmU)
+[![IMAGE ALT TEXT HERE](http://i3.ytimg.com/vi/KPDYgDNMjmU/hqdefault.jpg)](https://www.youtube.com/watch?v=KPDYgDNMjmU)
 
 ## How to download and play:rocket:
 
